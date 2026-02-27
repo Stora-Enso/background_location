@@ -10,7 +10,7 @@ A Flutter plugin to get location updates in the background for both Android and 
 dependencies:
   background_location:
     git:
-      url: https://github.com/Stora-Enso/background_location
+      url: https://github.com/Stora-Enso/background_location.git
 ```
 
 **2:** Install packages from the command line:
