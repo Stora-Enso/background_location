@@ -48,5 +48,5 @@
 # Generated files
 **/*.g.dart
 pubspec.lock
-ios/Flutter/ephemeral/flutter_lldb_helper.py
-ios/Flutter/ephemeral/flutter_lldbinit
+/example/ios/Flutter/ephemeral/flutter_lldb_helper.py
+/example/ios/Flutter/ephemeral/flutter_lldbinit
